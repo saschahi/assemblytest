@@ -1,0 +1,4 @@
+displayName = assemblytest
+author = saschahi
+dllReferences = TwitchLib.Client, TwitchLib.Client.Enums, TwitchLib.Client.Models, TwitchLib.Communication, Microsoft.Extensions.Logging.Abstractions
+version = 0.1
