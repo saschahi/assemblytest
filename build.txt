@@ -1,4 +1,5 @@
 displayName = assemblytest
 author = saschahi
-dllReferences = TwitchLib.Client, TwitchLib.Client.Enums, TwitchLib.Client.Models, TwitchLib.Communication, Microsoft.Extensions.Logging.Abstractions
+dllReferences = TwitchLib.Client.Enums, TwitchLib.Client.Models, TwitchLib.Client, TwitchLib.Communication, Microsoft.Extensions.Logging.Abstractions
 version = 0.1
+includePDB = true
